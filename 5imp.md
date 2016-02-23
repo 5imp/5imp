@@ -1,10 +1,10 @@
 # 5imp
 
-## An RPG system you can play with 3-year-olds. Or drunks.
+## SRD5-based rules you can play with 3-year-olds. Or drunks.
 
-5imp is intended to be a set of lightweight guidelines to get players started with tabletop role-playing games. A game master (GM) can use 5imp to introduce System Reference Document 5.0 (SRD5)-based games to players of various ages and cognitive capacities.
+5imp is intended to be a set of lightweight guidelines to get players started with tabletop roleplaying games. A game master (GM) can use 5imp to play System Reference Document 5.0 (SRD5)-compatible adventures with players of varying ages and cognitive capacities.
 
-[Click here for a PDF of the SRD](http://media.wizards.com/2016/downloads/SRD-OGL_V1.1.pdf)
+[Link to SRD5 in PDF format](http://media.wizards.com/2016/downloads/SRD-OGL_V1.1.pdf)
 
 # Your Character
 
@@ -16,7 +16,7 @@ Hit Points: 10
 
 Adventuring Advantage: Strength
 
-Combat Ability: Make two attacks each turn instead of one
+Combat Ability: Make 2 attacks each turn instead of 1.
 
 ## Halfling Rogue
 
@@ -26,7 +26,7 @@ Hit Points: 8
 
 Adventuring Advantage: Dexterity
 
-Combat Ability: On hit the target takes two damage instead of one
+Combat Ability: On hit the target takes 2 damage instead of 1.
 
 ## Dwarf Cleric
 
@@ -36,7 +36,7 @@ Hit Points: 8
 
 Adventuring Advantage: Wisdom
 
-Combat Ability: Give a creature advantage (roll two d20 and take the higher) on their next attack or heal them for d6 hit points
+Combat Ability: Give a creature *advantage* (roll two d20 and take the higher) on their next attack roll, or heal them for d6 hit points.
 
 ## Elf Wizard
 
@@ -46,36 +46,33 @@ Hit Points: 6
 
 Adventuring Advantage: Intelligence
 
-Combat Ability: On hit the target has disadvantage (roll two d20 and take the lower) on its next attack or every creature next to it takes one damage
+Combat Ability: On hit either the target takes 1 damage and has *disadvantage* (roll two d20 and take the lower) on its next attack roll, or it and every creature next to it takes 1 damage.
 
 ## Advanced Play
 
-Create a character as with the SRD
+Create a character as with the SRD.
 
-Armor Class: Subtract 5 from AC after equipping armor and/or shield
+Armor Class: Subtract 5 from AC after equipping armor and/or shield.
 
-Hit Points: Highest value on the class's hit die (e.g. d8 = 8, d10 = 10)
+Hit Points: Highest value on the class's hit die (e.g. d8 = 8, d10 = 10).
 
-Adventuring Advantage: Use the class's primary/spellcasting ability score
+Adventuring Advantage: Use the class/character's highest or spellcasting ability score.
 
-Combat Ability: Think about what distinguishes the class from others
+Combat Ability: Try to distill down what distinguishes this class/character from others.
 
 # Adventuring
 
 ## The Basics
 
 1. Each player tells the GM what his or her character wants to do.
-2. The GM may ask a player for an Ability Check.
+2. The GM may ask a player for an *ability check*.
    - The GM specifies which ability: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
    - The GM (privately) sets a Difficulty Class (DC) for the ability check, using the below as a guideline
      + DC 5 = Easy
      + DC 10 = Medium
      + DC 15 = Hard
-3. The GM describes what happens based on the outcome of the ability check.
-
-## Making an Ability Check
-
-Simply roll a d20. If a character has "Adventuring Advantage" for the ability, roll two d20 and take the higher number.
+3, The player rolls a d20. If a character has "Adventuring Advantage" for the ability, the player rolls 2d20 and uses the higher number.
+4. The GM describes what happens based on the outcome of the ability check.
 
 ## Advanced Play
 
@@ -85,11 +82,11 @@ See "Using Ability Scores" in the SRD for additional adventuring rules and guide
 
 ## Initiative
 
-Roll two d20 (one for players and one for monsters). All creatures on the side with the higher number take their turns first, then creatures on the other side takes their turns, and so on until combat ends.
+Roll 2d20 (1 for players and 1 for monsters). All creatures on the side with the higher number take their turns first, then creatures on the other side takes their turns, and so on until combat ends.
 
 ## Attacks
 
-Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 damage (losing 1 hit point). If a "20" is rolled, the roll is a critical hit. Roll a d6; the target takes that much damage instead.
+Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 damage (losing 1 hit point). If a "20" is rolled, the roll is a *critical hit*. Roll a d6; the target takes that much damage instead.
 
 ## Getting Knocked Out
 
