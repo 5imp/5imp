@@ -68,7 +68,7 @@ Roll a d20, the DM sets the difficulty of the roll (the below are guidelines).
 Use "Create Your Own" to make your character. Roll a d20 and add the appropriate modifier(s).
 
 
-` # Combat
+# Combat
 
 Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 damage. If a "20" is rolled, the roll is a critical hit. Roll a d6; the target takes that much damage instead of the normal 1.
 
