@@ -6,7 +6,7 @@
 
 [Link to SRD5 in PDF format](http://media.wizards.com/2016/downloads/SRD-OGL_V1.1.pdf)
 
-# Your Character
+# Player Characters
 
 ## Human Fighter
 
@@ -46,7 +46,7 @@ Hit Points: 6
 
 Adventuring Advantage: Intelligence
 
-Combat Ability: On hit either the target takes 1 damage and has *disadvantage* (roll two d20 and take the lower) on its next attack roll, or it and every creature next to it takes 1 damage.
+Combat Ability: On hit either the target takes 1 damage and has *disadvantage* (roll two d20 and take the lower) on its next attack roll, or it and every creature next to it (including allies) takes 1 damage.
 
 ## Advanced Play
 
