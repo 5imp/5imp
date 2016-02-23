@@ -2,7 +2,7 @@
 
 ## SRD5-based rules you can play with 3-year-olds. Or drunks.
 
-5imp is intended to be a set of lightweight guidelines to get players started with tabletop roleplaying games. A game master (GM) can use 5imp to play System Reference Document 5.0 (SRD5)-compatible adventures with players of varying ages and cognitive capacities.
+5imp is intended to be a set of lightweight guidelines to introduce tabletop roleplaying games. A game master (GM) can use 5imp to run System Reference Document 5.0 (SRD5)-compatible adventures with players of varying ages and cognitive capacities.
 
 [Link to SRD5 in PDF format](http://media.wizards.com/2016/downloads/SRD-OGL_V1.1.pdf)
 
@@ -71,7 +71,7 @@ Combat Ability: Try to distill down what distinguishes this class/character from
      + DC 5 = Easy
      + DC 10 = Medium
      + DC 15 = Hard
-3, The player rolls a d20. If a character has "Adventuring Advantage" for the ability, the player rolls 2d20 and uses the higher number.
+3. The player rolls a d20. If a character has "Adventuring Advantage" for the ability, the player rolls 2d20 and uses the higher number.
 4. The GM describes what happens based on the outcome of the ability check.
 
 ## Advanced Play
@@ -258,7 +258,7 @@ except	as	described	by	the	License	itself.	No	other
 terms	or	conditions	may	be	applied	to	any	Open	
 Game	Content	distributed	using	this	License.	
 
-3.Offer	and	Acceptance:	By	Using	the	Open	Game	
+3. Offer	and	Acceptance:	By	Using	the	Open	Game	
 Content	You indicate	Your	acceptance	of	the	terms	of	
 this	License.	
 
@@ -268,13 +268,13 @@ You	a	perpetual,	worldwide,	royalty-free,	nonexclusive
 license	with	the	exact	terms	of	this	License	
 to	Use,	the	Open	Game	Content.	
 
-5.Representation	of	Authority	to	Contribute:	If	You	
+5. Representation	of	Authority	to	Contribute:	If	You	
 are	contributing	original	material	as	Open	Game	
 Content,	You	represent	that	Your	Contributions	are	
 Your	original	creation	and/or	You	have	sufficient	
 rights	to	grant	the	rights	conveyed	by	this	License.	
 
-6.Notice	of	License	Copyright:	You	must	update	the	
+6. Notice	of	License	Copyright:	You	must	update	the	
 COPYRIGHT	NOTICE	portion	of	this	License	to	
 include	the	exact	text	of	the	COPYRIGHT	NOTICE	of	
 any	Open	Game	Content	You	are	copying,	modifying	
