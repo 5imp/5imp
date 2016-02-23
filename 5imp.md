@@ -36,7 +36,7 @@ Hit Points: 8
 
 Adventuring Advantage: Wisdom
 
-Combat Ability: Give a creature *advantage* (roll two d20 and take the higher) on their next attack roll, or heal them for d6 hit points.
+Combat Ability: Give a creature *advantage* (roll two d20 and use the higher) on their next attack roll, or heal them for d6 hit points.
 
 ## Elf Wizard
 
@@ -46,7 +46,7 @@ Hit Points: 6
 
 Adventuring Advantage: Intelligence
 
-Combat Ability: On hit either the target takes 1 damage and has *disadvantage* (roll two d20 and take the lower) on its next attack roll, or it and every creature next to it (including allies) takes 1 damage.
+Combat Ability: On hit either the target takes 1 damage and has *disadvantage* (roll two d20 and use the lower) on its next attack roll, or it and every creature next to it (including allies) takes 1 damage.
 
 ## Advanced Play
 
@@ -71,7 +71,8 @@ Combat Ability: Try to distill down what distinguishes this class/character from
      + DC 5 = Easy
      + DC 10 = Medium
      + DC 15 = Hard
-3. The player rolls a d20. If a character has "Adventuring Advantage" for the ability, the player rolls 2d20 and uses the higher number.
+     + DC 20 = Very Hard
+3. The player rolls a d20. If a character has "Adventuring Advantage" for the ability, the player rolls two d20 and uses the higher number.
 4. The GM describes what happens based on the outcome of the ability check.
 
 ## Advanced Play
@@ -80,13 +81,13 @@ See "Using Ability Scores" in the SRD for additional adventuring rules and guide
 
 # Combat
 
-## Initiative
+## Initiative and Turns
 
-Roll 2d20 (1 for players and 1 for monsters). All creatures on the side with the higher number take their turns first, then creatures on the other side takes their turns, and so on until combat ends.
+At the start of combat, one player rolls a d20, and the GM rolls a d20 for the monsters. All creatures on the side with the higher number take their turns first (in any order), then creatures on the other side takes their turns (in any order), and so on until combat ends.
 
 ## Attacks
 
-Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 damage (losing 1 hit point). If a "20" is rolled, the roll is a *critical hit*. Roll a d6; the target takes that much damage instead.
+Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 *damage* (losing 1 hit point). If a "20" is rolled, the roll is a *critical hit*. Roll a d6; the target takes that much damage instead.
 
 ## Getting Knocked Out
 
