@@ -1,3 +1,11 @@
+# 5imp
+
+## An RPG system you can play with 3-year-olds. Or drunks.
+
+5imp is intended to be a set of lightweight guidelines to get players started with tabletop role-playing games. A game master (GM) can use 5imp to introduce System Reference Document 5.0 (SRD5)-based games to players of various ages and cognitive capacities.
+
+[Click here for a PDF of the SRD](http://media.wizards.com/2016/downloads/SRD-OGL_V1.1.pdf)
+
 # Your Character
 
 ## Human Fighter
@@ -8,7 +16,7 @@ Hit Points: 10
 
 Adventuring Advantage: Strength
 
-Combat Ability: Two attacks per turn
+Combat Ability: Make two attacks each turn instead of one
 
 ## Halfling Rogue
 
@@ -18,7 +26,7 @@ Hit Points: 8
 
 Adventuring Advantage: Dexterity
 
-Combat Ability: Two damage per hit
+Combat Ability: On hit the target takes two damage instead of one
 
 ## Dwarf Cleric
 
@@ -28,7 +36,7 @@ Hit Points: 8
 
 Adventuring Advantage: Wisdom
 
-Combat Ability: Holy Magic
+Combat Ability: Give a creature advantage (roll two d20 and take the higher) on their next attack or heal them for d6 hit points
 
 ## Elf Wizard
 
@@ -38,7 +46,7 @@ Hit Points: 6
 
 Adventuring Advantage: Intelligence
 
-Combat Ability: Arcane Spellcasting
+Combat Ability: On hit the target has disadvantage (roll two d20 and take the lower) on its next attack or every creature next to it takes one damage
 
 ## Advanced Play
 
@@ -46,7 +54,7 @@ Create a character as with the SRD
 
 Armor Class: Subtract 5 from AC after equipping armor and/or shield
 
-Hit Points: Higest value on the class's hit die (e.g. d8 = 8, d10 = 10)
+Hit Points: Highest value on the class's hit die (e.g. d8 = 8, d10 = 10)
 
 Adventuring Advantage: Use the class's primary/spellcasting ability score
 
@@ -54,37 +62,46 @@ Combat Ability: Think about what distinguishes the class from others
 
 # Adventuring
 
-The Basics:
+## The Basics
 
-1. Each player tells the DM what his or her character wants to do.
-2. The DM may ask for an Ability Check (below)
-   - The DM specifies which ability: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
-   - The DM secretly sets a Difficulty Class (DC) for the ability check, which they use to describe the outcome
-3. The DM describes what happens to the character(s).
+1. Each player tells the GM what his or her character wants to do.
+2. The GM may ask a player for an Ability Check.
+   - The GM specifies which ability: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
+   - The GM (privately) sets a Difficulty Class (DC) for the ability check, using the below as a guideline
+     + DC 5 = Easy
+     + DC 10 = Medium
+     + DC 15 = Hard
+3. The GM describes what happens based on the outcome of the ability check.
 
-## Making an Ability Check (for Players):
+## Making an Ability Check
 
 Simply roll a d20. If a character has "Adventuring Advantage" for the ability, roll two d20 and take the higher number.
 
-## DC Guidelines (for DMs):
-
-* DC 5 = Easy
-* DC 10 = Medium
-* DC 15 = Hard
-
 ## Advanced Play
 
-Create your own character, including ability scores. See "Using Ability Scores" in the SRD for standard rules, or Chapter 9 of the *Dungeon Master's Guide* for ability score and skill variants.
+Create a character as with the SRD. See "Using Ability Scores" in the SRD for additional adventuring rules and guidelines.
 
 # Combat
 
-Roll two d20 (one for players and one for monsters). The side with the higher number all takes their turns first, then the other side takes all their turns, and so on until combat ends.
+## Initiative
 
-Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 damage (losing 1 hit point). If a "20" is rolled, the roll is a critical hit. Roll a d6; the target takes that much damage instead of the normal 1.
+Roll two d20 (one for players and one for monsters). All creatures on the side with the higher number take their turns first, then creatures on the other side takes their turns, and so on until combat ends.
+
+## Attacks
+
+Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 damage (losing 1 hit point). If a "20" is rolled, the roll is a critical hit. Roll a d6; the target takes that much damage instead.
+
+## Getting Knocked Out
 
 If a creature reaches 0 hit points, it is knocked out until it is revived or for the rest of the combat.
 
+## Advanced Play
+
+See "Actions in Combat" in the SRD for additional actions beyond attacks in combat.
+
 # Monsters
+
+Each monster has an *armor class* (AC; the number to hit it) and *hit points* (HP; how much damage it can take). Additionally, some monsters can make multiple attacks in a single turn.
 
 ## Bulette
 
@@ -172,6 +189,168 @@ AC 8, HP 3
 
 ## Advanced Play
 
-Convert any SRD-compatible monster by subtracting 5 from its listed AC, the number of hit dice become its hit points.
+See "Monsters" in the SRD. Convert any SRD monster by subtracting 5 from its listed AC, the number of hit dice become its hit points. The monster's number of attacks remains the same.
 
-Adding simplified versions of special abilities will make different monster encounters unique. Subtract 5 from DCs for saving throws.
+Adding simplified versions of special abilities will also make different monster encounters unique. Subtract 5 from DCs for saving throws.
+
+# Legal Information
+
+5imp is licensed under the Open Gaming License v1.0a, the above text is Open Game Content.
+
+OPEN	GAME	LICENSE	Version	1.0a	
+
+The	following	text	is	the	property	of	Wizards	of	the	
+Coast,	Inc.	and	is	Copyright	2000	Wizards	of	the	
+Coast,	Inc	("Wizards").	All	Rights	Reserved.	
+
+1.	Definitions:	(a)"Contributors"	means	the	
+copyright	and/or	trademark	owners	who	have	
+contributed	Open	Game	Content;	(b)"Derivative	
+Material"	means	copyrighted	material	including	
+derivative	works	and	translations	(including	into	
+other	computer	languages),	potation,	modification,	
+correction,	addition,	extension,	upgrade,	
+improvement,	compilation,	abridgment	or	other	
+form	in	which	an	existing	work	may	be	recast,	
+transformed	or	adapted;	(c)	"Distribute"	means	to	
+reproduce,	license,	rent,	lease,	sell,	broadcast,	
+publicly	display,	transmit	or	otherwise	distribute;	
+(d)"Open	Game	Content"	means	the	game	mechanic	
+and	includes	the	methods,	procedures,	processes	
+and	routines	to	the	extent	such	content	does	not	
+embody	the	Product	Identity	and	is	an	enhancement	
+over	the	prior	art	and	any	additional	content	clearly	
+identified	as	Open	Game	Content	by	the	Contributor,	
+and	means	any	work	covered	by	this	License,	
+including	translations	and	derivative	works	under	
+copyright	law,	but	specifically	excludes	Product	
+Identity.	(e)	"Product	Identity"	means	product	and	
+product	line	names,	logos	and	identifying	marks	
+including	trade	dress;	artifacts;	creatures	characters;	
+stories,	storylines,	plots,	thematic	elements,	dialogue,	
+incidents,	language,	artwork,	symbols,	designs,	
+depictions,	likenesses,	formats,	poses,	concepts,	
+themes	and	graphic,	photographic	and	other	visual	
+or	audio	representations;	names	and	descriptions	of	
+characters,	spells,	enchantments,	personalities,	
+teams,	personas,	likenesses	and	special	abilities;	
+places,	locations,	environments,	creatures,	
+equipment,	magical	or	supernatural	abilities	or	
+effects,	logos,	symbols,	or	graphic	designs;	and	any	
+other	trademark	or	registered	trademark	clearly	
+identified	as	Product	identity	by	the	owner	of the	
+Product	Identity,	and	which	specifically	excludes	the	
+Open	Game	Content;	(f)	"Trademark"	means	the	
+logos,	names,	mark,	sign,	motto,	designs	that	are	
+used	by	a	Contributor	to	identify	itself	or	its	
+products	or	the	associated	products	contributed	to	
+the Open	Game	License	by	the	Contributor	(g)	"Use",	
+"Used"	or	"Using"	means	to	use,	Distribute,	copy,	edit,	
+format,	modify,	translate	and	otherwise	create	
+Derivative	Material	of	Open	Game	Content.	(h)	"You"	
+or	"Your"	means	the	licensee	in	terms	of	this	
+agreement.
+
+2.	The	License:	This	License	applies	to	any	Open	
+Game	Content	that	contains	a	notice	indicating	that	
+the	Open	Game	Content	may	only	be	Used	under	and	
+in	terms	of	this	License.	You	must	affix	such	a	notice	
+to	any	Open	Game	Content	that	you	Use.	No	terms	
+may	be	added	to	or	subtracted	from	this	License	
+except	as	described	by	the	License	itself.	No	other	
+terms	or	conditions	may	be	applied	to	any	Open	
+Game	Content	distributed	using	this	License.	
+
+3.Offer	and	Acceptance:	By	Using	the	Open	Game	
+Content	You indicate	Your	acceptance	of	the	terms	of	
+this	License.	
+
+4.	Grant	and	Consideration:	In	consideration	for	
+agreeing	to	use	this	License,	the	Contributors	grant	
+You	a	perpetual,	worldwide,	royalty-free,	nonexclusive
+license	with	the	exact	terms	of	this	License	
+to	Use,	the	Open	Game	Content.	
+
+5.Representation	of	Authority	to	Contribute:	If	You	
+are	contributing	original	material	as	Open	Game	
+Content,	You	represent	that	Your	Contributions	are	
+Your	original	creation	and/or	You	have	sufficient	
+rights	to	grant	the	rights	conveyed	by	this	License.	
+
+6.Notice	of	License	Copyright:	You	must	update	the	
+COPYRIGHT	NOTICE	portion	of	this	License	to	
+include	the	exact	text	of	the	COPYRIGHT	NOTICE	of	
+any	Open	Game	Content	You	are	copying,	modifying	
+or	distributing,	and	You must	add	the	title,	the	
+copyright	date,	and	the	copyright	holder's	name	to	
+the	COPYRIGHT	NOTICE	of	any	original	Open	Game	
+Content	you	Distribute.	
+
+7.	Use	of	Product	Identity:	You	agree	not	to	Use	any	
+Product	Identity,	including	as	an	indication	as	to	
+compatibility,	except	as	expressly	licensed	in	
+another,	independent	Agreement	with	the	owner	of	
+each	element	of	that	Product	Identity.	You	agree	not	
+to	indicate	compatibility	or	co-adaptability	with	any	
+Trademark	or	Registered	Trademark	in	conjunction	
+with	a	work	containing	Open	Game	Content	except	
+as	expressly	licensed	in	another,	independent	
+Agreement	with	the	owner	of	such	Trademark	or	
+Registered	Trademark.	The	use	of	any	Product	
+Identity	in	Open	Game	Content	does	not	constitute	a	
+challenge	to	the	ownership of	that	Product	Identity.	
+The	owner	of	any	Product	Identity	used	in	Open	
+Game	Content	shall	retain	all	rights,	title	and	interest	
+in	and	to	that	Product	Identity.	
+
+8.	Identification:	If	you	distribute	Open	Game	
+Content	You	must	clearly	indicate	which	portions	of	
+the	work	that	you	are	distributing	are	Open	Game	
+Content.	
+
+9.	Updating	the	License:	Wizards	or	its	designated	
+Agents	may	publish	updated	versions	of	this	License.	
+You	may	use	any	authorized	version	of	this	License	
+to	copy,	modify	and	distribute	any	Open	Game	
+Content	originally	distributed	under	any	version	of	
+this	License.	
+
+10.	Copy	of	this	License:	You	MUST	include	a	copy	of	
+this	License	with	every	copy	of	the	Open	Game	
+Content	You	Distribute.	
+
+11.	Use	of	Contributor	Credits:	You	may	not	market
+or	advertise	the	Open	Game	Content	using	the	name	
+of	any	Contributor	unless	You	have	written	
+permission	from	the	Contributor	to	do	so.	
+
+12.	Inability	to	Comply:	If	it	is	impossible	for	You	to	
+comply	with	any	of	the	terms	of	this	License	with	
+respect	to	some	or	all	of	the	Open	Game	Content	due	
+to	statute,	judicial	order,	or	governmental	regulation	
+then	You	may	not	Use	any	Open	Game	Material	so	
+affected.	
+
+13.	Termination:	This	License	will	terminate	
+automatically	if	You	fail	to	comply	with	all	terms	
+herein and	fail	to	cure	such	breach	within	30	days	of	
+becoming	aware	of	the	breach.	All	sublicenses	shall	
+survive	the	termination	of	this	License.	
+
+14.	Reformation:	If	any	provision	of	this	License	is	
+held	to	be	unenforceable,	such	provision	shall	be	
+reformed	only	to	the	extent	necessary	to	make	it	
+enforceable.	
+
+15.	COPYRIGHT	NOTICE	
+Open	Game	License	v	1.0a	Copyright	2000,	Wizards	
+of	the	Coast,	Inc.	
+System	Reference	Document	5.0	Copyright	2016,	
+Wizards	of	the	Coast,	Inc.;	Authors	Mike	Mearls,	
+Jeremy	Crawford,	Chris	Perkins,	Rodney	Thompson,	
+Peter	Lee,	James	Wyatt,	Robert	J.	Schwalb,	Bruce	R.	
+Cordell,	Chris	Sims,	and	Steve	Townshend,	based	on	
+original	material	by	E.	Gary	Gygax	and	Dave	Arneson.	
+5imp 1.0 Copyright 2016, Kevin WOrth
+
+END	OF	LICENSE
