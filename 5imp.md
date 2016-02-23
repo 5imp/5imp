@@ -79,7 +79,7 @@ Simply roll a d20. If a character has "Adventuring Advantage" for the ability, r
 
 ## Advanced Play
 
-Create a character as with the SRD. See "Using Ability Scores" in the SRD for additional adventuring rules and guidelines.
+See "Using Ability Scores" in the SRD for additional adventuring rules and guidelines.
 
 # Combat
 
@@ -93,7 +93,7 @@ Each time a creature attacks, roll a d20. If the number rolled is equal to or gr
 
 ## Getting Knocked Out
 
-If a creature reaches 0 hit points, it is knocked out until it is revived or for the rest of the combat.
+If a creature reaches 0 hit points, it is knocked out until it is revived (e.g. via healing) or for the rest of the combat.
 
 ## Advanced Play
 
