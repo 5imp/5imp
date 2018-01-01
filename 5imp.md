@@ -2,13 +2,22 @@
 
 ## SRD5-based rules you can play with 3-year-olds. Or drunks.
 
-5imp is intended to be a set of lightweight guidelines to introduce tabletop roleplaying games. A game master (GM) can use 5imp to run System Reference Document 5.0 (SRD5)-compatible adventures with players of varying ages and cognitive capacities.
+5imp is intended to be a set of lightweight guidelines to introduce tabletop roleplaying games to new players. A game master (GM) can use 5imp to run Systems Reference Document (SRD) 5.x-compatible adventures with players of varying ages and mental faculties.
 
-[Link to SRD5 in PDF format](http://media.wizards.com/2016/downloads/SRD-OGL_V1.1.pdf)
+Note this does not mean 5imp is desigend for new game masters; on the contrary, introducing new players is best done by a more experienced GM who is familiar with the spirit of role-playing games. That said; if 5imp is helpful for you as a new GM, by all means, make use of it. :)
 
-# Player Characters
+5imp takes its primary inspiration from [Monster Slayers: Champions of the Elements](http://dnd.wizards.com/articles/features/monsterslayers) by Susan J. Morris and seeks to create a system that blends its simplified style of play into a subset of the SRD rules.
 
-## Human Fighter
+"What's different from the SRD?" in short:
+- Primary mechanics are mostly reduced to a single d20 roll (or 3d6 ifyou don't have a d20)
+  + Modifiers are removed
+  + Damage rolls are removed
+
+[Link to official SRD information](http://dnd.wizards.com/articles/features/systems-reference-document-srd)
+
+## Player Characters
+
+### Human Fighter
 
 Armor Class: 13
 
@@ -18,7 +27,7 @@ Adventuring Advantage: Strength
 
 Combat Ability: Make 2 attacks each turn instead of 1.
 
-## Halfling Rogue
+### Halfling Rogue
 
 Armor Class: 10
 
@@ -28,7 +37,7 @@ Adventuring Advantage: Dexterity
 
 Combat Ability: On hit the target takes 2 damage instead of 1.
 
-## Dwarf Cleric
+### Dwarf Cleric
 
 Armor Class: 11
 
@@ -38,7 +47,7 @@ Adventuring Advantage: Wisdom
 
 Combat Ability: Give a creature *advantage* (roll two d20 and use the higher) on their next attack roll, or heal them for d6 hit points.
 
-## Elf Wizard
+### Elf Wizard
 
 Armor Class: 7
 
@@ -48,9 +57,9 @@ Adventuring Advantage: Intelligence
 
 Combat Ability: On hit either the target takes 1 damage and has *disadvantage* (roll two d20 and use the lower) on its next attack roll, or it and every creature next to it (including allies) takes 1 damage.
 
-## Advanced Play
+### Advanced Play
 
-Create a character as with the SRD.
+Create a character as usual with the process specified in the SRD.
 
 Armor Class: Subtract 5 from AC after equipping armor and/or shield.
 
@@ -60,9 +69,9 @@ Adventuring Advantage: Use the class/character's highest or spellcasting ability
 
 Combat Ability: Try to distill down what distinguishes this class/character from others.
 
-# Adventuring
+## Adventuring
 
-## The Basics
+### The Basics
 
 1. Each player tells the GM what his or her character wants to do.
 2. The GM may ask a player for an *ability check*.
@@ -75,123 +84,123 @@ Combat Ability: Try to distill down what distinguishes this class/character from
 3. The player rolls a d20. If a character has "Adventuring Advantage" for the ability, the player rolls two d20 and uses the higher number.
 4. The GM describes what happens based on the outcome of the ability check.
 
-## Advanced Play
+### Advanced Play
 
 See "Using Ability Scores" in the SRD for additional adventuring rules and guidelines.
 
-# Combat
+## Combat
 
-## Initiative and Turns
+### Initiative and Turns
 
 At the start of combat, one player rolls a d20, and the GM rolls a d20 for the monsters. All creatures on the side with the higher number take their turns first (in any order), then creatures on the other side takes their turns (in any order), and so on until combat ends.
 
-## Attacks
+### Attacks
 
 Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 *damage* (losing 1 hit point). If a "20" is rolled, the roll is a *critical hit*. Roll a d6; the target takes that much damage instead.
 
-## Getting Knocked Out
+### Getting Knocked Out
 
 If a creature reaches 0 hit points, it is knocked out until it is revived (e.g. via healing) or for the rest of the combat.
 
-## Advanced Play
+### Advanced Play
 
 See "Actions in Combat" in the SRD for additional actions beyond attacks in combat.
 
-# Monsters
+## Monsters
 
 Each monster has an *armor class* (AC; the number to hit it) and *hit points* (HP; how much damage it can take). Additionally, some monsters can make multiple attacks in a single turn.
 
-## Bulette
+### Bulette
 
 AC 12, HP 9
 
-## Chimera
+### Chimera
 
 AC 9, HP 12, 3 attacks
 
-## Imp
+### Imp
 
 AC 8, HP 3
 
-## Tyrannosaurus Rex
+### Tyrannosaurus Rex
 
 AC 8, HP 13, 2 attacks
 
-## Adult Red Dragon
+### Adult Red Dragon
 
 AC 14, HP 19, 3 attacks
 
-## Ghoul
+### Ghoul
 
 AC 7, HP 5
 
-## Frost Giant
+### Frost Giant
 
 AC 11, HP 12, 2 attacks
 
-## Gnoll
+### Gnoll
 
 AC 11, HP 5
 
-## Goblin
+### Goblin
 
 AC 10, HP 2
 
-## Grick
+### Grick
 
 AC 9, HP 6
 
-## Grimlock
+### Grimlock
 
 AC 6, HP 2
 
-## Hobgoblin
+### Hobgoblin
 
 AC 13, HP 2
 
-## Kobold
+### Kobold
 
 AC 7, HP 2
 
-## Kraken
+### Kraken
 
 AC 13, HP 27, 3 attacks
 
-## Mummy
+### Mummy
 
 AC 6, HP 9, 2 attacks
 
-## Ogre
+### Ogre
 
 AC 6, HP 7
 
-## Orc
+### Orc
 
 AC 8, HP 2
 
-## Skeleton
+### Skeleton
 
 AC 8, HP 2
 
-## Troll
+### Troll
 
 AC 10, HP 8, 3 attacks
 
-## Xorn
+### Xorn
 
 AC 14, HP 7, 4 attacks
 
-## Zombie
+### Zombie
 
 AC 8, HP 3
 
-## Advanced Play
+### Advanced Play
 
 See "Monsters" in the SRD. Convert any SRD monster by subtracting 5 from its listed AC, the number of hit dice become its hit points. The monster's number of attacks remains the same.
 
 Adding simplified versions of special abilities will also make different monster encounters unique. Subtract 5 from DCs for saving throws.
 
-# Legal Information
+## Legal Information
 
 5imp is licensed under the Open Game License v1.0a, the above text is Open Game Content.
 
@@ -343,12 +352,14 @@ enforceable.
 15. COPYRIGHT NOTICE 
 Open Game License v 1.0a Copyright 2000, Wizards 
 of the Coast, Inc. 
-System Reference Document 5.0 Copyright 2016, 
+
+System Reference Document 5.1 Copyright 2016, 
 Wizards of the Coast, Inc.; Authors Mike Mearls, 
 Jeremy Crawford, Chris Perkins, Rodney Thompson, 
 Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. 
 Cordell, Chris Sims, and Steve Townshend, based on 
 original material by E. Gary Gygax and Dave Arneson. 
+
 5imp 1.0 Copyright 2016, Kevin Worth
 
 END OF LICENSE
