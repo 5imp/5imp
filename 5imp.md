@@ -113,7 +113,7 @@ Each time a creature attacks, roll a d20. If the number rolled is equal to or gr
 
 #### Critical Hits
 
-If a "20" is rolled, the roll is a *critical hit*. The target takes 2 *damage* (losing 2 hit points).
+If a "20" is rolled (or 18 if you're using 3d6), the roll is a *critical hit*. The target takes 2 *damage* (losing 2 hit points).
 
 If the game master wants to make critical hits more dramatic, a critical hit may instead deal 1d6 damage.
 
