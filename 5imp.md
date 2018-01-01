@@ -4,11 +4,12 @@
 
 5imp is intended to be a set of lightweight guidelines to introduce tabletop roleplaying games to new players. A game master (GM) can use 5imp to run Systems Reference Document (SRD) 5.x-compatible adventures with players of varying ages and mental faculties.
 
-Note this does not mean 5imp is desigend for new game masters; on the contrary, introducing new players is best done by a more experienced GM who is familiar with the spirit of role-playing games. That said; if 5imp is helpful for you as a new GM, by all means, make use of it. :)
+Note this does not mean 5imp is intended for new game masters; on the contrary, introducing new players is often best done by an experienced GM who is familiar with the spirit of role-playing games. That said; if 5imp is helpful for you as a new GM, by all means, make use of it. :)
 
 5imp takes its primary inspiration from [Monster Slayers: Champions of the Elements](http://dnd.wizards.com/articles/features/monsterslayers) by Susan J. Morris and seeks to create a system that blends its simplified style of play into a subset of the SRD rules.
 
-"What's different from the SRD?" in short:
+### "What's different from the SRD?" in short:
+
 - Primary mechanics are mostly reduced to a single d20 roll (or 3d6 ifyou don't have a d20)
   + Modifiers are removed
   + Damage rolls are removed
