@@ -16,7 +16,7 @@ The conversion formula for monster hit points also takes a note from D&D creativ
 
 ### Major Changes from SRD
 
-- Primary mechanics are mostly reduced to a single d20 roll (or 3d6 if you don't have a d20)
+- Primary mechanics are mostly reduced to a single d20 roll
   + All modifiers are removed (that's right, no math needed)
   + Damage rolls are removed in favor of "hits"
 
@@ -113,7 +113,7 @@ Each time a creature attacks, roll a d20. If the number rolled is equal to or gr
 
 #### Critical Hits
 
-If a "20" is rolled (or 18 if you're using 3d6), the roll is a *critical hit*. The target takes 2 *damage* (losing 2 hit points).
+If a "20" is rolled, the roll is a *critical hit*. The target takes 2 *damage* (losing 2 hit points).
 
 If the game master wants to make critical hits more dramatic, a critical hit may instead deal 1d6 damage.
 
