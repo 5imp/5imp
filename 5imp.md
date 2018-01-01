@@ -22,7 +22,7 @@ The conversion formula for monster hit points also takes a note from D&D creativ
 
 ## Player Characters
 
-Below are some sample/example player characters; the GM may allow players to choose one or adapt them as he or she sees fit.
+Below are some sample/example player characters; the GM may allow players to choose one or adapt them as appropriate.
 
 ### Human Fighter
 
