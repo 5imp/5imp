@@ -1,6 +1,6 @@
 # 5imp
 
-## SRD5-based rules you can play with 3-year-olds (or drunk adults).
+## SRD5-based rules you can play with 3-year-olds (or drunk adults)
 
 5imp is intended to be a set of lightweight guidelines to introduce tabletop roleplaying games to new players. A game master (GM) can use 5imp to run [Systems Reference Document 5.x (SRD5)](http://dnd.wizards.com/articles/features/systems-reference-document-srd)-compatible adventures with players of varying ages and/or math skills.
 
