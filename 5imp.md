@@ -10,9 +10,7 @@ This does not mean 5imp is a stand-alone set of rules for new game masters; on t
 
 5imp was borne from a desire to adapt Dungeons & Dragons 5th Edition for my son to play as soon as he could recognize numbers on dice (about 3 years old). My previous thoughts (more prose than mechanics) are collected in [D&D 5th Edition "Kid Mode" Suggestions and Variants](https://gist.github.com/ceeeKay/625f96316dbeb9635924), which pre-dates the availability of SRD5.
 
-"Kid Mode" and 5imp take their primary inspiration from [Monster Slayers: Champions of the Elements](http://dnd.wizards.com/articles/features/monsterslayers) by Susan J. Morris and seeks to create mechanics that blend its simplified style of play into a subset of the SRD rules in order to slowly sprinkle in "real" rules.
-
-The conversion formula for monster hit points also takes a note from D&D creative director Mike Mearls on [twitter](https://twitter.com/mikemearls/status/667502729061752832) mentioning that number of hit dice could be a reasonable way to simplify monster hit points while maintaining relative consistency.
+"Kid Mode" and 5imp take their primary inspiration from [Monster Slayers: Champions of the Elements](http://dnd.wizards.com/articles/features/monsterslayers) by Susan J. Morris and seeks to create mechanics that blend its simplified style of play into a subset of the SRD rules in order to slowly sprinkle in "real" rules. The conversion formula for monster hit points also takes a note from D&D creative director Mike Mearls on [twitter](https://twitter.com/mikemearls/status/667502729061752832). Note neither of these authors is in any way associated with or endorses 5imp.
 
 ### Major Changes from SRD
 
