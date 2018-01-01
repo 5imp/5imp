@@ -1,22 +1,31 @@
 # 5imp
 
-## SRD5-based rules you can play with 3-year-olds. Or drunks.
+## SRD5-based rules you can play with 3-year-olds (or drunk adults).
 
-5imp is intended to be a set of lightweight guidelines to introduce tabletop roleplaying games to new players. A game master (GM) can use 5imp to run Systems Reference Document (SRD) 5.x-compatible adventures with players of varying ages and mental faculties.
+5imp is intended to be a set of lightweight guidelines to introduce tabletop roleplaying games to new players. A game master (GM) can use 5imp to run [Systems Reference Document 5.x (SRD5)](http://dnd.wizards.com/articles/features/systems-reference-document-srd)-compatible adventures with players of varying ages and/or math skills.
 
-Note this does not mean 5imp is intended for new game masters; on the contrary, introducing new players is often best done by an experienced GM who is familiar with the spirit of role-playing games. That said; if 5imp is helpful for you as a new GM, by all means, make use of it. :)
+This does not mean 5imp is a stand-alone set of rules for new game masters; on the contrary, introducing new players is often best done by an experienced GM who is familiar with the spirit of role-playing games. Most of the below is very mechanically-focused, but the magic of role-playing games is often the narrative flavor, not the raw number-crunching. That said, if 5imp is helpful for you as a new GM, by all means make use of it.
 
-5imp takes its primary inspiration from [Monster Slayers: Champions of the Elements](http://dnd.wizards.com/articles/features/monsterslayers) by Susan J. Morris and seeks to create a system that blends its simplified style of play into a subset of the SRD rules.
+### Inspiration
+
+5imp was borne from a desire to adapt Dungeons & Dragons 5th Edition for my son to play as soon as he could recognize numbers on dice (about 3 years old). My previous thoughts (more prose than mechanics) are collected in [D&D 5th Edition "Kid Mode" Suggestions and Variants](https://gist.github.com/ceeeKay/625f96316dbeb9635924), which pre-dates the availability of SRD5.
+
+"Kid Mode" and 5imp take their primary inspiration from [Monster Slayers: Champions of the Elements](http://dnd.wizards.com/articles/features/monsterslayers) by Susan J. Morris and seeks to create mechanics that blend its simplified style of play into a subset of the SRD rules in order to slowly sprinkle in "real" rules.
+
+The conversion formula for monster hit points also takes a note from D&D creative director Mike Mearls on [twitter](https://twitter.com/mikemearls/status/667502729061752832) mentioning that number of hit dice could be a reasonable way to simplify monster hit points while maintaining relative consistency.
 
 ### "What's different from the SRD?" in short:
 
-- Primary mechanics are mostly reduced to a single d20 roll (or 3d6 ifyou don't have a d20)
+- Primary mechanics are mostly reduced to a single d20 roll (or 3d6 if you don't have a d20)
   + Modifiers are removed
-  + Damage rolls are removed
-
-[Link to official SRD information](http://dnd.wizards.com/articles/features/systems-reference-document-srd)
+  + Difficulty class (DC) and armor class (AC) values are reduced by 5
+  + Damage rolls are removed in favor of "hits"
+  + Critical hits operate a little differently
+- Generally speaking, mechanics probably favor the player characters with the intent of not frustrating younger players
 
 ## Player Characters
+
+Below are some sample/example player characters; the GM may allow players to choose one or adapt them as he or she sees fit.
 
 ### Human Fighter
 
@@ -60,7 +69,7 @@ Combat Ability: On hit either the target takes 1 damage and has *disadvantage* (
 
 ### Advanced Play
 
-Create a character as usual with the process specified in the SRD.
+Create a player character using the process specified in the SRD.
 
 Armor Class: Subtract 5 from AC after equipping armor and/or shield.
 
@@ -68,7 +77,7 @@ Hit Points: Highest value on the class's hit die (e.g. d8 = 8, d10 = 10).
 
 Adventuring Advantage: Use the class/character's highest or spellcasting ability score.
 
-Combat Ability: Try to distill down what distinguishes this class/character from others.
+Combat Ability: Try to distill down what distinguishes this class/character from others into a simple mechanic.
 
 ## Adventuring
 
@@ -97,7 +106,13 @@ At the start of combat, one player rolls a d20, and the GM rolls a d20 for the m
 
 ### Attacks
 
-Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 *damage* (losing 1 hit point). If a "20" is rolled, the roll is a *critical hit*. Roll a d6; the target takes that much damage instead.
+Each time a creature attacks, roll a d20. If the number rolled is equal to or greater than the target's AC, the target takes 1 *damage* (losing 1 hit point).
+
+#### Critical Hits
+
+If a "20" is rolled, the roll is a *critical hit*. The target takes 2 *damage* (losing 2 hit points).
+
+If the game master wants to make critical hits more dramatic, a critical hit may instead deal 1d6 damage.
 
 ### Getting Knocked Out
 
@@ -109,7 +124,7 @@ See "Actions in Combat" in the SRD for additional actions beyond attacks in comb
 
 ## Monsters
 
-Each monster has an *armor class* (AC; the number to hit it) and *hit points* (HP; how much damage it can take). Additionally, some monsters can make multiple attacks in a single turn.
+Each monster has an *armor class* (AC; the number to hit it) and *hit points* (HP; how much damage it can take). Additionally, some monsters can make multiple attacks in a single turn. Below are some sample/example monsters; the GM may use or adapt them as he or she sees fit.
 
 ### Bulette
 
@@ -197,7 +212,7 @@ AC 8, HP 3
 
 ### Advanced Play
 
-See "Monsters" in the SRD. Convert any SRD monster by subtracting 5 from its listed AC, the number of hit dice become its hit points. The monster's number of attacks remains the same.
+See "Monsters" in the SRD. Convert any SRD monster by subtracting 5 from its listed AC, the number of hit dice becomes its hit points. The monster's number of attacks remains the same.
 
 Adding simplified versions of special abilities will also make different monster encounters unique. Subtract 5 from DCs for saving throws.
 
