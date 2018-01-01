@@ -81,13 +81,19 @@ Combat Ability: Try to distill down what distinguishes this class/character from
 ### The Basics
 
 1. Each player tells the GM what his or her character wants to do.
-2. The GM may ask a player for an *ability check*.
-   - The GM specifies which ability: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
-   - The GM (privately) sets a Difficulty Class (DC) for the ability check, using the below as a guideline
-     + DC 5 = Easy
-     + DC 10 = Medium
-     + DC 15 = Hard
-     + DC 20 = Very Hard
+2. The GM may ask a player for an *ability check*, which has two components:
+   - An appropriate ability for the character to use:
+     + Strength
+     + Dexterity
+     + Constitution
+     + Intelligence
+     + Wisdom
+     + Charisma
+   - A Difficulty Class (DC), using the below as a guideline:
+     + DC 5: Easy
+     + DC 10: Medium
+     + DC 15: Hard
+     + DC 20: Very Hard
 3. The player rolls a d20. If a character has "Adventuring Advantage" for the ability, the player rolls two d20 and uses the higher number.
 4. The GM describes what happens based on the outcome of the ability check.
 
@@ -99,7 +105,7 @@ See "Using Ability Scores" in the SRD for additional adventuring rules and guide
 
 ### Initiative and Turns
 
-At the start of combat, one player rolls a d20, and the GM rolls a d20 for the monsters. All creatures on the side with the higher number take their turns first (in any order), then creatures on the other side takes their turns (in any order), and so on until combat ends.
+At the start of combat, one of the players rolls a d20, and the GM rolls a d20 for the monsters. All creatures on the side with the higher number take their turns first (in any order), then creatures on the other side takes their turns (in any order), and so on until combat ends.
 
 ### Attacks
 
