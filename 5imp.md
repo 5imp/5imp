@@ -14,14 +14,12 @@ This does not mean 5imp is a stand-alone set of rules for new game masters; on t
 
 The conversion formula for monster hit points also takes a note from D&D creative director Mike Mearls on [twitter](https://twitter.com/mikemearls/status/667502729061752832) mentioning that number of hit dice could be a reasonable way to simplify monster hit points while maintaining relative consistency.
 
-### "What's different from the SRD?" in short:
+### What's different from the SRD?
 
+In short:
 - Primary mechanics are mostly reduced to a single d20 roll (or 3d6 if you don't have a d20)
-  + Modifiers are removed
-  + Difficulty class (DC) and armor class (AC) values are reduced by 5
+  + All modifiers are removed (that's right, no math needed)
   + Damage rolls are removed in favor of "hits"
-  + Critical hits operate a little differently
-- Generally speaking, mechanics probably favor the player characters with the intent of not frustrating younger players
 
 ## Player Characters
 
