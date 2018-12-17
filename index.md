@@ -22,6 +22,8 @@ This does not mean 5imp is a stand-alone set of rules for new game masters; on t
 
 Below are some sample/example player characters; the GM may allow players to choose one or adapt them as appropriate.
 
+[Example Character Sheet](5imp-Sheet.pdf)
+
 ### Human Fighter
 
 Armor Class: 13
@@ -61,6 +63,16 @@ Hit Points: 6
 Adventuring Advantage: Intelligence
 
 Combat Ability: On hit either the target takes 1 damage and has *disadvantage* (roll two d20 and use the lower) on its next attack roll, or it and every creature next to it (including allies) takes 1 damage.
+
+### Wood Elf Ranger
+
+Armor Class: 11
+
+Hit Points: 10
+
+Adventuring Advantage: Wisdom
+
+Combat Ability: Send your animal companion to make a second attack on your turn or give you advantage on your attack.
 
 ### Advanced Play
 
